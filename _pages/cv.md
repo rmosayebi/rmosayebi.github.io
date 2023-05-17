@@ -11,7 +11,7 @@ You can download a pdf version of my CV [here](CV_RezaMosayebi.pdf).
 
 Education
 -----------
-**Sharif University of Technology**, Blacksburg, VA, USA (Feb. 2018 -- Sep. 2018)
+**Sharif University of Technology**, Tehran, Iran (Feb. 2018 -- Sep. 2018)
 
 *Doctor of Philosophy in Electrical Engineering*
 * Advisors: [Dr. Maosumeh Nasiri-Kenari](https://www.dhillon.ece.vt.edu/) and [Dr. Amin Gohari](http://sharif.edu/~aminzadeh/)
@@ -31,22 +31,21 @@ Education
 
 Work experience
 -----------
-* **Senior Engineer** (May 2022 -- Present)
-  * [Qualcomm Technologies Inc.](https://www.qualcomm.com)
-* **System Engineering Intern** (Summer 2021 and Summer 2020)
-  * [Qualcomm Technologies Inc.](https://www.qualcomm.com)
-* **Research Assistant** (Jan. 2018 -- May 2022)
-  * [Virginia Tech](https://vt.edu)
-* **Teaching Assistant** (Jan. 2018 -- Dec. 2018)
-  * [Virginia Tech](https://vt.edu)
-* **Research Assistant** (Sep. 2013 -- Sep. 2014)
-  * [University of Tehran](https://ut.ac.ir/en)
+* **Postdoctoral Research Fellow** (Mar. 2022 -- Present)
+  * [University of British Columbia](https://https://www.ubc.ca/)
+* **Instructor** (Jan. 2023 -- Apr. 2023)
+  * [University of British Columbia](https://https://www.ubc.ca/)
+* **Senior System Engineer** (April. 2016 -- Jun. 2019)
+  * [Faraz Ertebat, Co.](https://farazcomm.com/)
+* **Visiting Scholar** (July. 2017 -- Mar. 2018)
+  * [University of Erlangen-Nuremberg](https://www.fau.eu/n)
+* **Graduate Research Assistant** (Sep. 2012 -- Sep. 2018)
+  * [Sharif University of Technology](https://ut.ac.ir/en)
   
-Skills
+Programming Skills
 -----------
-* Programming: MATLAB, Python
-* Applications: LaTeX, Microsoft Word/PowerPoint/Excel/Visio  
+* MATLAB, Python, C++
   
-Teaching
+Teaching Experience
 -----------
-I have served as instructor for the ``Error Control Coding for Communications and Computers course" at University of British Columbia, Vancouver, Canada  **Technical English**.
+I have served as instructor for the "Error Control Coding for Communications and Computers course" at University of British Columbia, Vancouver, Canada.
