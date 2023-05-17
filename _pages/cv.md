@@ -7,27 +7,27 @@ redirect_from:
   - /resume
 ---
 
-You can download a pdf version of my CV [here](CV_MortezaBanagar.pdf).
+You can download a pdf version of my CV [here](CV_RezaMosayebi.pdf).
 
 Education
 -----------
-**Virginia Tech**, Blacksburg, VA, USA (Jan. 2018 -- May 2022)
+**Sharif University of Technology**, Blacksburg, VA, USA (Feb. 2018 -- Sep. 2018)
 
 *Doctor of Philosophy in Electrical Engineering*
-* Advisor: [Dr. Harpreet S. Dhillon](https://www.dhillon.ece.vt.edu/)
-* Dissertation: [Drone Cellular Networks: Fundamentals, Modeling, and Analysis](https://vtechworks.lib.vt.edu/handle/10919/110919)
+* Advisors: [Dr. Maosumeh Nasiri-Kenari](https://www.dhillon.ece.vt.edu/) and [Dr. Amin Gohari](http://sharif.edu/~aminzadeh/)
+* Dissertation: Efficient detection schemes in molecular communication networks
 
-**University of Tehran**, Tehran, Iran (Sep. 2012 -- Sep. 2014)
+**Sharif University of Technology**, Tehran, Iran (Sep. 2012 -- Feb. 2014)
 
 *Master of Science in Electrical Engineering -- Communication Systems*
-* Advisor: [Dr. Behrouz Maham](https://sites.google.com/site/behrouzmaham/)
-* Thesis: [A Stochastic Geometric Approach for the Analysis and Design of Cognitive Device-to-Device Networks](Morteza_MSc_Thesis.pdf)
+* Advisors: [Dr. Maosumeh Nasiri-Kenari](https://www.dhillon.ece.vt.edu/) and [Dr. Amin Gohari](http://sharif.edu/~aminzadeh/)
+* Thesis: Efficient methods for transmission and reception of information in molecular communication systems
 
-**University of Tehran**, Tehran, Iran (Sep. 2008 -- Sep. 2012)
+**Sharif University of Technology**, Tehran, Iran (Sep. 2008 -- Sep. 2012)
 
-*Bachelor of Science in Electrical Engineering -- Telecommunications*
-* Advisor: [Dr. Ali Olfat](https://scholar.google.com/citations?user=VmZ3M3UAAAAJ&hl=en)
-* Project: [Carrier and Symbol Synchronization Techniques](Morteza_BSc_Project.pdf)
+*Bachelor of Science in Electrical Engineering -- Communications*
+* Advisor: Advisor: [Dr. Amin Gohari](http://sharif.edu/~aminzadeh/)
+* Project: Data transmission over GSM voice channel
 
 Work experience
 -----------
@@ -49,4 +49,4 @@ Skills
   
 Teaching
 -----------
-I have served as a teaching assistant and tutor for several courses at Virginia Tech and University of Tehran including **Stochastic Signals and Systems**, **Signals and Systems**, **Communication Systems I**, **Engineering Probability and Statistics**, **Electrical Circuits Laboratory**, and **Technical English**.
+I have served as instructor for the ``Error Control Coding for Communications and Computers course" at University of British Columbia, Vancouver, Canada  **Technical English**.
