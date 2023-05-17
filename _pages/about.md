@@ -14,11 +14,11 @@ I am currently a Postdoctoral Fellow at [University of British Columbia](https:/
 
 Research Interests
 ======
-1. 5G NR
-2. Wireless Communications
-3. UAV Communications
-4. Stochastic Geometry
-5. Channel Modeling
+1. Wireless Communications
+2. Optical Fiber Systems
+3. Bio-inspired Communications
+4. Estimation and Detection
+5. Machine Learning
 
 News
 ======
