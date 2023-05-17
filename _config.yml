@@ -86,9 +86,9 @@ author:
   location         : "Vancouver, BC, Canada"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=Hp0MiBcAAAAJ&hl=en&authuser=1"
-  email            : "mbanagar@vt.edu"
-  researchgate     : "https://www.researchgate.net/profile/Morteza_Banagar" # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=EN2Ma-YAAAAJ&hl=en&oi=ao"
+  email            : "mosayebi@ece,ubc.ca"
+  researchgate     : #"https://www.researchgate.net/profile/Morteza_Banagar" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         : # "MorBeh142"
   foursquare       :
-  github           : "mbanagar"
+  github           : "rmosayebi"
   google_plus      :
   keybase          :
   instagram        : # "MorBeh142"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "mortezabanagar"
-  orcid            : "http://orcid.org/0000-0001-5977-9897"
+  linkedin         : "reza-mosayebi-059babaa"
+  orcid            : #"http://orcid.org/0000-0001-5977-9897"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
