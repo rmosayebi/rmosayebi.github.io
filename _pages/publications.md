@@ -16,18 +16,20 @@ Book Chapters
 Journal Articles
 ---------------------
 
-[J6] **R. Mosayebi** M. Mojahedian, and A. Lozano, "Linear interference cancellation for the cell-free C-RAN uplink," *IEEE Transactions on Wireless Communications*, vol.  20,  no. 3,  pp.  1544-1556,  March 2021. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9247465/)] 
+[J7] **R. Mosayebi** M. Mojahedian, and A. Lozano, "Linear interference cancellation for the cell-free C-RAN uplink," *IEEE Transactions on Wireless Communications*, vol.  20,  no. 3,  pp.  1544-1556, March 2021. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9247465/)] 
 
-[J5] R Nikbakht, **R. Mosayebi**, and A. Lozano, "Uplink fractional power control and downlink power allocation for cell-free networks," *IEEE Wireless Communications Letters*, vol.  9,  no.  6,  pp.  774-777, January 2020. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/8968623/)] 
+[J6] R Nikbakht, **R. Mosayebi**, and A. Lozano, "Uplink fractional power control and downlink power allocation for cell-free networks," *IEEE Wireless Communications Letters*, vol.  9,  no.  6,  pp.  774-777, January 2020. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/8968623/)] 
 
-[J4] L. Khaloopour,  S. V. Rouzegar,  A. Azizi, A. Hosseinian,  M. Farahnak-Ghazani,  N. Bagheri,
-M. Mirmohseni,  H. Arjmandi, **R. Mosayebi**, and M. Nasiri-Kenari, "An experimental platform for underwater macro-scale molecular communication," *IEEE Transactions on Molecular, Biological and Multi-Scale Communications*, vol.  5,  no.  6,  pp. 163-175,  Dec.  2019. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9027995)] 
+[J5] L. Khaloopour,  S. V. Rouzegar,  A. Azizi, A. Hosseinian,  M. Farahnak-Ghazani,  N. Bagheri,
+M. Mirmohseni,  H. Arjmandi, **R. Mosayebi**, and M. Nasiri-Kenari, "An experimental platform for underwater macro-scale molecular communication," *IEEE Transactions on Molecular, Biological and Multi-Scale Communications*, vol.  5,  no.  6,  pp. 163-175, December  2019. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9027995)] 
 
-[J3] **R. Mosayebi**, A. Ahmadzadeh,  W. Wicke,  V. Jamali,  R. Schober,  and M. Nasiri-Kenari, "Early cancer detection in blood vessels using mobile nanosensor," *IEEE Transactions on NanoBioscience*, vol.  18, no.  2, pp.  103-116,  Dec.  2018. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/8567997)] 
+[J4] **R. Mosayebi**, A. Ahmadzadeh,  W. Wicke,  V. Jamali,  R. Schober,  and M. Nasiri-Kenari, "Early cancer detection in blood vessels using mobile nanosensor," *IEEE Transactions on NanoBioscience*, vol.  18, no.  2, pp.  103-116, December  2018. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/8567997)] 
 
-[J2] **R. Mosayebi**, V. V. Chetlur, and H. S. Dhillon, "Handover probability in drone cellular networks," *IEEE Wireless Communications Letters*, vol. 9, no. 7, pp. 933-937, July 2020. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9003219)] [[arXiv](https://arxiv.org/abs/2002.06493)] [[Code](https://github.com/mbanagar/Handover-Drones)]
+[J3] **R. Mosayebi**, A. Gohari,  M. Mirmohseni, and M. Nasiri-Kenari, "Type-based sign modulation and its application for ISI mitigation in molecular communication," *IEEE Transactions on Communications*, vol.  66,  no.  1,  pp.  180-193, January  2018. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/8047260)] 
 
-[J1] **R. Mosayebi**, B. Maham, P. Popovski, and F. Pantisano, "Power distribution of device-to-device communications in underlaid cellular networks," *IEEE Wireless Communications Letters*, vol. 5, no. 2, pp. 204-207, April 2016. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/7383234)] [[arXiv](https://arxiv.org/abs/1511.04754)]
+[J2] **R. Mosayebi**, V. Jamali,  N. Ghoroghchian,  R. Schober,  M. Nasiri-Kenari,  and M. Mehrabi, "Cooperative abnormality detection via diffusive molecular communications," *IEEE Transactions on NanoBioscience*, vol.  16,  no.  8,  pp.  828-842, November 2017. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/8115299)] 
+
+[J1] **R. Mosayebi**, H. Arjmandi, A. Gohari, M. Nasiri-Kenari, and U. Mitra, "Receivers for diffusion based molecular communication: Exploiting memory and sampling Rate," *IEEE Journal on Selected Areas in Communications*, vol.  32,  no.  12,  pp.  2368-2380,  December  2014. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/6949059)] 
 
 Conference Proceedings
 ---------------------
