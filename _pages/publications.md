@@ -16,17 +16,18 @@ Book Chapters
 Journal Articles
 ---------------------
 
-[J6] **R. Mosayebi** M. Mojahedian, and A. Lozano, "Linear interference cancellation for the cell-free C-RAN uplink," in *IEEE Transactions on Wireless Communications*, vol.  20,  no. 3,  pp.  1544-1556,  March 2021. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9247465/)] 
+[J6] **R. Mosayebi** M. Mojahedian, and A. Lozano, "Linear interference cancellation for the cell-free C-RAN uplink," *IEEE Transactions on Wireless Communications*, vol.  20,  no. 3,  pp.  1544-1556,  March 2021. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9247465/)] 
 
 [J5] R Nikbakht, **R. Mosayebi**, and A. Lozano, "Uplink fractional power control and downlink power allocation for cell-free networks," *IEEE Wireless Communications Letters*, vol.  9,  no.  6,  pp.  774-777, January 2020. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/8968623/)] 
 
-[J4] **M. Banagar**, H. S. Dhillon, and A. F. Molisch, "Impact of UAV wobbling on the air-to-ground wireless channel," *IEEE Transactions on Vehicular Technology*, vol. 69, no. 11, pp. 14025-14030, November 2020. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9206092)] [[arXiv](https://arxiv.org/abs/2004.02771)] [[Code](https://github.com/mbanagar/Wobbling-Drones)]
+[J4] L. Khaloopour,  S. V. Rouzegar,  A. Azizi, A. Hosseinian,  M. Farahnak-Ghazani,  N. Bagheri,
+M. Mirmohseni,  H. Arjmandi, **R. Mosayebi**, and M. Nasiri-Kenari, "An experimental platform for underwater macro-scale molecular communication," *IEEE Transactions on Molecular, Biological and Multi-Scale Communications*, vol.  5,  no.  6,  pp. 163-175,  Dec.  2019. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9027995)] 
 
-[J3] **M. Banagar** and H. S. Dhillon, "Performance characterization of canonical mobility models in drone cellular networks," *IEEE Transactions on Wireless Communications*, vol. 19, no. 7, pp. 4994-5009, July 2020. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9078878)] [[arXiv](https://arxiv.org/abs/1908.05243)] [[Code](https://github.com/mbanagar/Mobility-Drones)] [[Video](https://www.youtube.com/watch?v=2IbM2JXnZus)]
+[J3] **R. Mosayebi**, A. Ahmadzadeh,  W. Wicke,  V. Jamali,  R. Schober,  and M. Nasiri-Kenari, "Early cancer detection in blood vessels using mobile nanosensor," *IEEE Transactions on NanoBioscience*, vol.  18, no.  2, pp.  103-116,  Dec.  2018. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/8567997)] 
 
-[J2] **M. Banagar**, V. V. Chetlur, and H. S. Dhillon, "Handover probability in drone cellular networks," *IEEE Wireless Communications Letters*, vol. 9, no. 7, pp. 933-937, July 2020. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9003219)] [[arXiv](https://arxiv.org/abs/2002.06493)] [[Code](https://github.com/mbanagar/Handover-Drones)]
+[J2] **R. Mosayebi**, V. V. Chetlur, and H. S. Dhillon, "Handover probability in drone cellular networks," *IEEE Wireless Communications Letters*, vol. 9, no. 7, pp. 933-937, July 2020. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9003219)] [[arXiv](https://arxiv.org/abs/2002.06493)] [[Code](https://github.com/mbanagar/Handover-Drones)]
 
-[J1] **M. Banagar**, B. Maham, P. Popovski, and F. Pantisano, "Power distribution of device-to-device communications in underlaid cellular networks," *IEEE Wireless Communications Letters*, vol. 5, no. 2, pp. 204-207, April 2016. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/7383234)] [[arXiv](https://arxiv.org/abs/1511.04754)]
+[J1] **R. Mosayebi**, B. Maham, P. Popovski, and F. Pantisano, "Power distribution of device-to-device communications in underlaid cellular networks," *IEEE Wireless Communications Letters*, vol. 5, no. 2, pp. 204-207, April 2016. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/7383234)] [[arXiv](https://arxiv.org/abs/1511.04754)]
 
 Conference Proceedings
 ---------------------
