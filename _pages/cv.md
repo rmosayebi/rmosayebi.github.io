@@ -35,6 +35,8 @@ Work experience
   * [University of British Columbia](https://https://www.ubc.ca/)
 * **Instructor** (Jan. 2023 -- Apr. 2023)
   * [University of British Columbia](https://https://www.ubc.ca/)
+* **Postdoctoral Fellow** (Sep. 2019 -- Sep. 2021)
+  * [University of Pompeu Fabra](https://www.upf.edu/en/)
 * **Senior System Engineer** (April. 2016 -- Jun. 2019)
   * [Faraz Ertebat, Co.](https://farazcomm.com/)
 * **Visiting Scholar** (July. 2017 -- Mar. 2018)
