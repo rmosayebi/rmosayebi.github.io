@@ -34,16 +34,14 @@ M. Mirmohseni,  H. Arjmandi, **R. Mosayebi**, and M. Nasiri-Kenari, "An experime
 Conference Proceedings
 ---------------------
 
-[C7] **M. Banagar** and H. S. Dhillon, "Wobbling and impairments-aware channel model and its implications on high-frequency UAV links," in *IEEE Global Communications Conference (GLOBECOM)*, Rio de Janeiro, Brazil, December 2022, pp. 5983-5988. [[IEEE Xplore](https://ieeexplore.ieee.org/document/10000688)]
+[C7] **R. Mosayebi** and L. Lampe, "DNN for Joint Nonlinearity Compensation and Polarization Tracking in the Presence of PDL," Submitted to *European Conference on Optical Communication (ECOC)*, 2023. 
 
-[C6] **M. Banagar** and H. S. Dhillon, "Fundamentals of 3D two-hop cellular networks analysis with wireless backhauled UAVs," in *IEEE Global Communications Conference (GLOBECOM)*, Madrid, Spain, December 2021, pp. 1-6. [[IEEE Xplore](https://ieeexplore.ieee.org/document/9685132)] [[Code](https://github.com/mbanagar/TwoHop-Drones)]
+[C6] **R. Mosayebi**, M. Mojahedian, and A. Lozano, "Parallel interference cancellation for cell-free C-RANs," in *Proceedings of Asilomar Conference on Signals, Systems and Computers*, Pacific Grove, CA, USA, November 2020, pp. 554-558. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9443269)] 
 
-[C5] **M. Banagar** and H. S. Dhillon, "Fundamentals of drone cellular network analysis under random waypoint mobility model," in *IEEE Global Communications Conference (GLOBECOM)*, Waikoloa Village, HI, USA, December 2019, pp. 1-6. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9013341)] [[arXiv](https://arxiv.org/abs/1908.09064)] [[Code](https://github.com/mbanagar/SRWP-Drones)]
+[C5] **R. Mosayebi** and H. S. Dhillon, "Fundamentals of drone cellular network analysis under random waypoint mobility model," in *IEEE Global Communications Conference (GLOBECOM)*, Waikoloa Village, HI, USA, December 2019, pp. 1-6. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9013341)] 
 
-[C4] **M. Banagar** and H. S. Dhillon, "3GPP-inspired stochastic geometry-based mobility model for a drone cellular network," in *IEEE Global Communications Conference (GLOBECOM)*, Waikoloa Village, HI, USA, December 2019, pp. 1-6. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9013645)] [[arXiv](https://arxiv.org/abs/1905.00972)] [[Code](https://github.com/mbanagar/3GPP-Mobility-Drones)]
+[C4] **R. Mosayebi** and H. S. Dhillon, "3GPP-inspired stochastic geometry-based mobility model for a drone cellular network," in *IEEE Global Communications Conference (GLOBECOM)*, Waikoloa Village, HI, USA, December 2019, pp. 1-6. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9013645)] 
 
-[C3] **M. Banagar**, B. Maham, and V. Shah-Mansouri, "Bounds on the coverage probability of heterogeneous cellular networks," in *IEEE International Conference on Communications (ICC) Workshops on Green Communications and Networks*, Kuala-Lampur, Malaysia, May 2016, pp. 755-759. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/7503878)]
+[C3] **R. Mosayebi**, B. Maham, and V. Shah-Mansouri, "Bounds on the coverage probability of heterogeneous cellular networks," in *IEEE International Conference on Communications (ICC) Workshops on Green Communications and Networks*, Kuala-Lampur, Malaysia, May 2016, pp. 755-759. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/7503878)]
 
-[C2] A. Eshraghi, B. Maham, Z. Han, and **M. Banagar**, "Efficiency and coverage improvement of active RFID two-hop relay systems," in *IEEE Wireless Communications and Networking Conference (WCNC)*, Istanbul, Turkey, April 2014, pp. 2002-2007. [[IEEE Xplore](http://ieeexplore.ieee.org/document/6952597)]
 
-[C1] N. Zarmehi, **M. Banagar**, and M. A. Akhaee, "Optimum decoder for an additive video watermarking with Laplacian noise in H.264," in *IEEE International Conference on Information Security and Cryptology*, Yazd, Iran, August 2013, pp. 1-5. [[IEEE Xplore](http://ieeexplore.ieee.org/document/6767352)] [[arXiv](https://arxiv.org/abs/1506.01501)]
