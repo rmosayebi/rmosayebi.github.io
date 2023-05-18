@@ -16,9 +16,9 @@ Book Chapters
 Journal Articles
 ---------------------
 
-[J6] **R. Mosayebi** M. Mojahedian,  and A. Lozano,n, "Linear interference cancellation for the cell-free C-RAN uplink," in *IEEE Transactions on Wireless Communications*, vol.  20,  no. 3,  pp.  1544-1556,  March 2021. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9247465/)] 
+[J6] **R. Mosayebi** M. Mojahedian, and A. Lozano, "Linear interference cancellation for the cell-free C-RAN uplink," in *IEEE Transactions on Wireless Communications*, vol.  20,  no. 3,  pp.  1544-1556,  March 2021. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9247465/)] 
 
-[J5] **M. Banagar** and H. S. Dhillon, "3D two-hop cellular networks with wireless backhauled UAVs: Modeling and fundamentals," *IEEE Transactions on Wireless Communications*, vol. 21, no. 8, pp. 6417-6433, August 2022. [[IEEE Xplore](https://ieeexplore.ieee.org/document/9712177)] [[arXiv](https://arxiv.org/abs/2105.07055)] [[Code](https://github.com/mbanagar/3D-TwoHop-Drones)]
+[J5] R Nikbakht, **R. Mosayebi**, and A. Lozano, "Uplink fractional power control and downlink power allocation for cell-free networks," *IEEE Wireless Communications Letters*, vol.  9,  no.  6,  pp.  774-777, January 2020. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/8968623/)] 
 
 [J4] **M. Banagar**, H. S. Dhillon, and A. F. Molisch, "Impact of UAV wobbling on the air-to-ground wireless channel," *IEEE Transactions on Vehicular Technology*, vol. 69, no. 11, pp. 14025-14030, November 2020. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9206092)] [[arXiv](https://arxiv.org/abs/2004.02771)] [[Code](https://github.com/mbanagar/Wobbling-Drones)]
 
