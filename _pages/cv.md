@@ -11,7 +11,7 @@ You can download a pdf version of my CV [here](CV_RezaMosayebi.pdf).
 
 Education
 -----------
-**Sharif University of Technology**, Tehran, Iran (Feb. 2018 -- Sep. 2018)
+**Sharif University of Technology**, Tehran, Iran (Feb. 2014 -- Sep. 2018)
 
 *Doctor of Philosophy in Electrical Engineering*
 * Advisors: [Dr. Maosumeh Nasiri-Kenari](https://www.dhillon.ece.vt.edu/) and [Dr. Amin Gohari](http://sharif.edu/~aminzadeh/)
