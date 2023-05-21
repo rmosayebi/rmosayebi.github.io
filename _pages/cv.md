@@ -26,7 +26,7 @@ Education
 **Sharif University of Technology**, Tehran, Iran (Sep. 2008 -- Sep. 2012)
 
 *Bachelor of Science in Electrical Engineering -- Communications*
-* Advisor: Advisor: [Dr. Amin Gohari](http://sharif.edu/~aminzadeh/)
+* Advisor: [Dr. Amin Gohari](http://sharif.edu/~aminzadeh/)
 * Project: Data transmission over GSM voice channel
 
 Work experience
