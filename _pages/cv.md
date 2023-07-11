@@ -39,7 +39,7 @@ Work experience
   * [University of Pompeu Fabra](https://www.upf.edu/en/)
 * **Visiting Scholar** (Jul. 2017 -- Mar. 2018)
   * [University of Erlangen-Nuremberg](https://www.fau.eu/n)
-* **Senior System Engineer** (Jun. 2012 -- Jun. 2019) 
+* **Senior System Engineer** (Apr. 2018 -- Jun. 2019) 
   * [Faraz Ertebat, Co.](https://farazcomm.com/?language=en)  
 * **Graduate Research Assistant** (Sep. 2012 -- Sep. 2018)
   * [Sharif University of Technology](https://ut.ac.ir/en)
