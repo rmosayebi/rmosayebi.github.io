@@ -31,19 +31,18 @@ M. Mirmohseni,  H. Arjmandi, **R. Mosayebi**, and M. Nasiri-Kenari, "An experime
 
 [J1] **R. Mosayebi**, H. Arjmandi, A. Gohari, M. Nasiri-Kenari, and U. Mitra, "Receivers for diffusion based molecular communication: Exploiting memory and sampling Rate," *IEEE Journal on Selected Areas in Communications*, vol.  32,  no.  12,  pp.  2368-2380,  December  2014. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/6949059)] 
 
+
 Conference Proceedings
 ---------------------
 
-[C7] **R. Mosayebi** and L. Lampe, "DNN for Joint Nonlinearity Compensation and Polarization Tracking in the Presence of PDL," Submitted to *European Conference on Optical Communication (ECOC)*, 2023. 
+[C5] **R. Mosayebi**, M. Mojahedian, and A. Lozano, "Parallel interference cancellation for cell-free C-RANs," in *Proceedings of Asilomar Conference on Signals, Systems and Computers*, Pacific Grove, CA, USA, November 2020, pp. 554-558. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9443269)] 
 
-[C6] **R. Mosayebi**, M. Mojahedian, and A. Lozano, "Parallel interference cancellation for cell-free C-RANs," in *Proceedings of Asilomar Conference on Signals, Systems and Computers*, Pacific Grove, CA, USA, November 2020, pp. 554-558. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9443269)] 
+[C4] M. Mojahedian, **R. Mosayebi**, A. Lozano, "Pseudo-inverse vs generalized inverse for C-RAN downlink precoding," in *IEEE Global Communications Conference (GLOBECOM)*, Taipei, Taiwan, December 2020, pp. 1-6. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9348123)] 
 
-[C5] M. Mojahedian, **R. Mosayebi**, A. Lozano, "Pseudo-inverse vs generalized inverse for C-RAN downlink precoding," in *IEEE Global Communications Conference (GLOBECOM)*, Taipei, Taiwan, December 2020, pp. 1-6. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9348123)] 
+[C3] **R. Mosayebi**, W. Wicke, V. Jamali, A. Ahmadzadeh, R. Schober, and M. Nasiri-Kenari, "Advanced target detection via molecular communication," in *IEEE Global Communications Conference (GLOBECOM)*, Abu Dhabi, United Arab Emirates, December 2018, pp. 1-7. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/8647734)] 
 
-[C4] **R. Mosayebi**, W. Wicke, V. Jamali, A. Ahmadzadeh, R. Schober, and M. Nasiri-Kenari, "Advanced target detection via molecular communication," in *IEEE Global Communications Conference (GLOBECOM)*, Abu Dhabi, United Arab Emirates, December 2018, pp. 1-7. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/8647734)] 
+[C2] **R. Mosayebi**, A. Gohari, M. Mirmohseni, and M. Nasiri-Kenari, "Type based sign modulation for molecular communication," in *Iran Workshop on Communication and Information Theory (IWCIT)*, Tehran, Iran, May 2016, pp. 1-6. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/7491618)]
 
-[C3] **R. Mosayebi**, A. Gohari, M. Mirmohseni, and M. Nasiri-Kenari, "Type based sign modulation for molecular communication," in *Iran Workshop on Communication and Information Theory (IWCIT)*, Tehran, Iran, May 2016, pp. 1-6. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/7491618)]
+[C1] **R. Mosayebi**, H. Arjmandi,  A. Gohari,  M. Nasiri-Kenari, and U. Mitra, "Diffusion based molecular communication: A simple near optimal receiver," in *Iran Workshop on Communication and Information Theory (IWCIT)*, Tehran, Iran, May 2014, pp. 1-4. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/6842503)]
 
-[C2] **R. Mosayebi**, H. Arjmandi,  A. Gohari,  M. Nasiri-Kenari, and U. Mitra, "Diffusion based molecular communication: A simple near optimal receiver," in *Iran Workshop on Communication and Information Theory (IWCIT)*, Tehran, Iran, May 2014, pp. 1-4. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/6842503)]
 
-[C1] R Kazemi, **R. Mosayebi**, S. M. Etemadi, M. Boloursaz, and F. Behnia, "Diffusion based molecular communication: A simple near optimal receiver," in *International Symposium on Telecommunications (IST)*, Tehran, Iran, November 2012, pp. 1015-1020. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/6483135)]

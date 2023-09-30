@@ -14,8 +14,8 @@ I am currently serving as a Postdoctoral Fellow at the [University of British Co
 
 Research Interests
 ======
-1. Wireless Communications
+1. Machine Learning
 2. Optical Fiber Systems
-3. Bio-inspired Communications
-4. Estimation and Detection
-5. Machine Learning
+3. Wireless Communications
+4. Bio-inspired Communications
+5. Estimation and Detection
