@@ -46,7 +46,7 @@ Work experience
 * **System Engineer** (Jul. 2012 -- Jul. 2017) 
   * [Faraz Ertebat, Co.](https://farazcomm.com/?language=en)  
 * **Graduate Research Assistant** (Sep. 2012 -- Sep. 2018)
-  * [Sharif University of Technology](https://ut.ac.ir/en)
+  * [Sharif University of Technology](https://www.ee.sharif.edu/en/)
   
 Programming Skills
 -----------
