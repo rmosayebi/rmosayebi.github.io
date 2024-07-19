@@ -32,11 +32,11 @@ Education
 Work experience
 -----------
 * **Staff Design Engineer** (Mar. 2024 -- Present)
-  * [Synopsys Inc.](https://https://www.synopsys.com/)
+  * [Synopsys Inc.](https://www.synopsys.com/)
 * **Postdoctoral Research Fellow** (Mar. 2022 -- Feb. 2024)
-  * [University of British Columbia](https://https://www.ubc.ca/)
+  * [University of British Columbia](https://www.ubc.ca/)
 * **Instructor** (Jan. 2023 -- Apr. 2023)
-  * [University of British Columbia](https://https://www.ubc.ca/)
+  * [University of British Columbia](https://www.ubc.ca/)
 * **Postdoctoral Fellow** (Sep. 2019 -- Sep. 2021)
   * [University of Pompeu Fabra](https://www.upf.edu/en/)
 * **Visiting Scholar** (Jul. 2017 -- Mar. 2018)
