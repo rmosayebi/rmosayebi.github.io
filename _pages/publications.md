@@ -16,6 +16,8 @@ Book Chapters
 Journal Articles
 ---------------------
 
+[J8] **R. Mosayebi** and  L. Lampe, "Deep neural network for joint nonlinearity compensation and polarization tracking in the presence of PDL," *Journal of Lightwave Technology*, vol. 42, no. 10, pp. 3747-3759, May 2024. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10438000)]
+
 [J7] **R. Mosayebi** M. Mojahedian, and A. Lozano, "Linear interference cancellation for the cell-free C-RAN uplink," *IEEE Transactions on Wireless Communications*, vol.  20,  no. 3,  pp.  1544-1556, March 2021. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9247465/)] 
 
 [J6] R Nikbakht, **R. Mosayebi**, and A. Lozano, "Uplink fractional power control and downlink power allocation for cell-free networks," *IEEE Wireless Communications Letters*, vol.  9,  no.  6,  pp.  774-777, January 2020. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/8968623/)] 
