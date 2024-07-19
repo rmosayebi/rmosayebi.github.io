@@ -31,7 +31,9 @@ Education
 
 Work experience
 -----------
-* **Postdoctoral Research Fellow** (Mar. 2022 -- Present)
+* **Staff Design Engineer** (Mar. 2024 -- Present)
+  * [Synopsys Inc.](https://https://www.synopsys.com/)
+* **Postdoctoral Research Fellow** (Mar. 2022 -- Feb. 2024)
   * [University of British Columbia](https://https://www.ubc.ca/)
 * **Instructor** (Jan. 2023 -- Apr. 2023)
   * [University of British Columbia](https://https://www.ubc.ca/)
