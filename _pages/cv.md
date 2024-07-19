@@ -14,13 +14,13 @@ Education
 **Sharif University of Technology**, Tehran, Iran (Feb. 2014 -- Sep. 2018)
 
 *Doctor of Philosophy in Electrical Engineering*
-* Advisors: [Dr. Maosumeh Nasiri-Kenari](https://www.dhillon.ece.vt.edu/) and [Dr. Amin Gohari](http://sharif.edu/~aminzadeh/)
+* Advisors: [Dr. Maosumeh Nasiri-Kenari](http://ee.sharif.ir/~mnasiri/) and [Dr. Amin Gohari](http://sharif.edu/~aminzadeh/)
 * Dissertation: Efficient detection schemes in molecular communication networks
 
 **Sharif University of Technology**, Tehran, Iran (Sep. 2012 -- Feb. 2014)
 
 *Master of Science in Electrical Engineering -- Communication Systems*
-* Advisors: [Dr. Maosumeh Nasiri-Kenari](https://www.dhillon.ece.vt.edu/) and [Dr. Amin Gohari](http://sharif.edu/~aminzadeh/)
+* Advisors: [Dr. Maosumeh Nasiri-Kenari](http://ee.sharif.ir/~mnasiri/) and [Dr. Amin Gohari](http://sharif.edu/~aminzadeh/)
 * Thesis: Efficient methods for transmission and reception of information in molecular communication systems
 
 **Sharif University of Technology**, Tehran, Iran (Sep. 2008 -- Sep. 2012)
