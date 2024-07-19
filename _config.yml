@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Reza Mosayebi"
   avatar           : "Reza.jpg"
-  bio              : "University of British Columbia <br/> Postdoctoral Fellow <br/> Ph.D. | Sharif University of Technology <br/> Electrical Engineering <br/> Wireless Communications"
-  location         : "Vancouver, BC, Canada"
+  bio              : "Synopsys Inc <br/> Staff Engineer <br/> Ph.D. | Sharif University of Technology <br/> Electrical Engineering <br/> Wireless Communications"
+  location         : "GTA, ON, Canada"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=EN2Ma-YAAAAJ&hl=en&oi=ao"
-  email            : "mosayebi@ece.ubc.ca"
+  email            : "mosayebi@synopsis.com"
   researchgate     : #"https://www.researchgate.net/profile/Morteza_Banagar" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
