@@ -11,12 +11,12 @@ You can find all my papers on my [Google Scholar profile](https://scholar.google
 Book Chapters
 ---------------------
 
-[BC1] **R. Mosayebi**, "Molecular Event Detection," in *UAV Communications for 5G and Beyond*, Cham: Springer International Publishing,  2020,  pp. 925--929. [[Springer](https://link.springer.com/referenceworkentry/10.1007/978-3-319-78262-1_230)] 
+[BC1] **R. Mosayebi**, "Molecular Event Detection," in *Encyclopedia of Wireless Networks*, Cham: Springer International Publishing,  2020,  pp. 925--929. [[Springer](https://link.springer.com/referenceworkentry/10.1007/978-3-319-78262-1_230)] 
 
 Journal Articles
 ---------------------
 
-[J8] **R. Mosayebi** and  L. Lampe, "Deep neural network for joint nonlinearity compensation and polarization tracking in the presence of PDL," *Journal of Lightwave Technology*, vol. 42, no. 10, pp. 3747-3759, May 2024. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10438000)]
+[J8] **R. Mosayebi** and  L. Lampe, "Deep neural network for joint nonlinearity compensation and polarization tracking in the presence of PDL," *IEEE/Optica Journal of Lightwave Technology*, vol. 42, no. 10, pp. 3747-3759, May 2024. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10438000)]
 
 [J7] **R. Mosayebi** M. Mojahedian, and A. Lozano, "Linear interference cancellation for the cell-free C-RAN uplink," *IEEE Transactions on Wireless Communications*, vol.  20,  no. 3,  pp.  1544-1556, March 2021. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9247465/)] 
 
@@ -36,6 +36,9 @@ M. Mirmohseni,  H. Arjmandi, **R. Mosayebi**, and M. Nasiri-Kenari, "An experime
 
 Conference Proceedings
 ---------------------
+
+[C6] **R. Mosayebi** and L. Lampe, "Anomaly Detection in Optical Fiber: A
+Change-Point Detection Perspective," in *Proceedings of IEEE/Optica Advanved Photonics Congress*, Quebec city, Canada, August 2024. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9443269)] 
 
 [C5] **R. Mosayebi**, M. Mojahedian, and A. Lozano, "Parallel interference cancellation for cell-free C-RANs," in *Proceedings of Asilomar Conference on Signals, Systems and Computers*, Pacific Grove, CA, USA, November 2020, pp. 554-558. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9443269)] 
 
