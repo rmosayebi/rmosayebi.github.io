@@ -38,7 +38,7 @@ Conference Proceedings
 ---------------------
 
 [C6] **R. Mosayebi** and L. Lampe, "Anomaly Detection in Optical Fiber: A
-Change-Point Detection Perspective," in *Proceedings of IEEE/Optica Advanced Photonics Congress*, Quebec city, Canada, August 2024. [[IEEE Xplore](https://people.ece.ubc.ca/lampe/Preprints/2024-ChangeDetection.pdf)] 
+Change-Point Detection Perspective," in *Proceedings of IEEE/Optica Advanced Photonics Congress*, Quebec City, Canada, August 2024. [[IEEE Xplore](https://people.ece.ubc.ca/lampe/Preprints/2024-ChangeDetection.pdf)] 
 
 [C5] **R. Mosayebi**, M. Mojahedian, and A. Lozano, "Parallel interference cancellation for cell-free C-RANs," in *Proceedings of Asilomar Conference on Signals, Systems and Computers*, Pacific Grove, CA, USA, November 2020, pp. 554-558. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9443269)] 
 
