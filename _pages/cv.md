@@ -27,7 +27,7 @@ Education
 
 *Bachelor of Science in Electrical Engineering -- Communications*
 * Advisor: [Dr. Amin Gohari](http://sharif.edu/~aminzadeh/)
-* Project: Data transmission over GSM voice channel
+* Project: Effective neural network models for the classification of human chromosomes.
 
 Work experience
 -----------
@@ -43,8 +43,6 @@ Work experience
   * [University of Erlangen-Nuremberg](https://www.fau.eu/n)
 * **Senior System Engineer** (Apr. 2018 -- Jun. 2019)
   * [Faraz Ertebat, Co.](https://farazcomm.com/?language=en)
-* **System Engineer** (Jul. 2012 -- Jul. 2017) 
-  * [Faraz Ertebat, Co.](https://farazcomm.com/?language=en)  
 * **Graduate Research Assistant** (Sep. 2012 -- Sep. 2018)
   * [Sharif University of Technology](https://www.ee.sharif.edu/en/)
   
